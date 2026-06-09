@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h3 align="center">A techie passionate about AI, Data Science & Open Source</h3>
-<h4 align="center">💻 I enjoy working with: Python | C++ | JavaScript | Git & GitHub | Web Dev<br><br>🔍 Curious about: AI, data science, backend development, open-source tools<br><br>🛠 Built: <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">TOURISTjunction</a> — a feedback platform for travelers<br><br>🌱 Currently learning: Data Structures, Web Dev & AI tools<br><br>🎯 Goal: Show up every day and become a reliable developer<br><br>☕ Powered by curiosity and lots of chai<br><br>📫 Always open to learning, feedback, and collaboration
+<h4 align="center">💻 I enjoy working with: Python | C++ | JavaScript | Git & GitHub | Web Dev<br><br>🔍 Curious about: AI, data science, backend development, open-source tools<br><br>🛠 Built: <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">TOURISTjunction</a> — a feedback platform for travelers<br><br>🌱 Currently learning: Data Structures, Web Dev & AI tools<br><br>🎯 Goal: Show up every day and become a reliable developer<br><br>🌱 Lifelong learner — there's always something new to explore<br><br>📫 Let's connect, collaborate, and grow together
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kandhwayanushka-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
