@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h3 align="center">A techie passionate about AI, Data Science & Open Source</h3>
-<h4 align="center">💻 Tech stack: Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind<br><br>🔍 Curious about: AI, data science, full-stack development, open-source<br><br>🛠 Built: <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">TOURISTjunction</a> — a feedback platform for travelers<br><br>🧪 Lab work: React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP<br><br>🌐 Portfolio: <a href="https://portfolio-kappa-lemon-vi7e7wslcc.vercel.app">portfolio-kappa-lemon-vi7e7wslcc.vercel.app</a><br><br>🌱 Lifelong learner — there's always something new to explore<br><br>📫 Let's connect, collaborate, and grow together</h4>
+<h4 align="center">💻 Tech stack: Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind<br><br>🔍 Curious about: AI, data science, full-stack development, open-source<br><br>🛠 Built: <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">TOURISTjunction</a> — a feedback platform for travelers<br><br>🧪 Lab work: React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP<br><br>🌐 Portfolio: <a href="https://portfolio1-vert-nine.vercel.app">portfolio-kappa-lemon-vi7e7wslcc.vercel.app</a><br><br>🌱 Lifelong learner — there's always something new to explore<br><br>📫 Let's connect, collaborate, and grow together</h4>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kandhwayanushka-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
