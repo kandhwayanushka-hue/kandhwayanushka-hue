@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h3 align="center">A techie passionate about AI, Data Science & Open Source</h3>
-<h4 align="center">💻 I enjoy working with: Python | C++ | JavaScript | Git & GitHub | Web Dev<br><br>🔍 Curious about: AI, data science, backend development, open-source tools<br><br>🛠 Built: <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">TOURISTjunction</a> — a feedback platform for travelers<br><br>🌱 Currently learning: Data Structures, Web Dev & AI tools<br><br>🎯 Goal: Show up every day and become a reliable developer<br><br>🌱 Lifelong learner — there's always something new to explore<br><br>📫 Let's connect, collaborate, and grow together
+<h4 align="center">💻 Tech stack: Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind<br><br>🔍 Curious about: AI, data science, full-stack development, open-source<br><br>🛠 Built: <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">TOURISTjunction</a> — a feedback platform for travelers<br><br>🧪 Lab work: React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP<br><br>🌱 Lifelong learner — there's always something new to explore<br><br>📫 Let's connect, collaborate, and grow together</h4>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kandhwayanushka-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -40,6 +40,10 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
@@ -47,19 +51,15 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -70,12 +70,12 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
