@@ -82,6 +82,12 @@
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
 
+## 🎯 When I'm not coding
+- 🏓 **Table tennis** — smashing pixels and ping pong balls
+- ✏️ **Sketching** — doodling ideas before coding them
+- 🎨 **Graphic designing** — making things look as good as they work
+- ✍️ **Writing** — words are just another form of code
+
 ## 📈 Activity Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
