@@ -80,9 +80,6 @@
 </table>
 <br><br>
 
-## 🚀 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
 
 ## 🎯 When I'm not coding
 - 🏓 **Table tennis** — smashing pixels and ping pong balls
