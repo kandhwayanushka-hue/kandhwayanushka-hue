@@ -6,47 +6,57 @@
 <h3 align="center">A techie passionate about AI, Data Science & Open Source</h3>
 <br>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #58a6ff; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #58a6ff; border-radius: 14px; background: #161b22; animation: float1 3s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #58a6ff; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     💻 <b>Tech stack:</b> Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind
   </td></tr>
 </table>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #f0883e; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #f0883e; border-radius: 14px; background: #161b22; animation: float2 3.5s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #f0883e; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     🔍 <b>Curious about:</b> AI, data science, full-stack development, open-source
   </td></tr>
 </table>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #3fb950; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #3fb950; border-radius: 14px; background: #161b22; animation: float3 2.8s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #3fb950; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     🛠 <b>Built:</b> <a href="https://touristjunction.vercel.app">TOURISTjunction</a> — a feedback platform for travelers (<a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">repo</a>)
   </td></tr>
 </table>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #d2a8ff; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #d2a8ff; border-radius: 14px; background: #161b22; animation: float4 3.2s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #d2a8ff; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     🧪 <b>Lab work:</b> React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP
   </td></tr>
 </table>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #ff6b6b; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #ff6b6b; border-radius: 14px; background: #161b22; animation: float5 3.7s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #ff6b6b; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     🌐 <b>Portfolio:</b> <a href="https://frontend-tau-one-51.vercel.app">anushka-kandhway.vercel.app</a>
   </td></tr>
 </table>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #ffd700; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #ffd700; border-radius: 14px; background: #161b22; animation: float6 3s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #ffd700; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     🌱 <b>Lifelong learner</b> — there's always something new to explore
   </td></tr>
 </table>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #79c0ff; border-radius: 14px; background: #161b22;">
+<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #79c0ff; border-radius: 14px; background: #161b22; animation: float7 3.4s ease-in-out infinite;">
   <tr><td align="center" style="border: 2px solid #79c0ff; border-radius: 14px; padding: 14px 22px; background: #161b22;">
     📫 <b>Let's connect, collaborate, and grow together</b>
   </td></tr>
 </table>
+
+<style>
+@keyframes float1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+@keyframes float2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
+@keyframes float3 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
+@keyframes float4 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+@keyframes float5 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+@keyframes float6 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
+@keyframes float7 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
+</style>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kandhwayanushka-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
