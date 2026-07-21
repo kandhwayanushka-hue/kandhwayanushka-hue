@@ -6,47 +6,20 @@
 <h3 align="center">A techie passionate about AI, Data Science & Open Source</h3>
 <br>
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #58a6ff; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(88,166,255,0.15);">
-  <tr><td align="center" style="border: 2px solid #58a6ff; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    💻 <b>Tech stack:</b> Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind
-  </td></tr>
-</table>
-
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #f0883e; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(240,136,62,0.15);">
-  <tr><td align="center" style="border: 2px solid #f0883e; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    🔍 <b>Curious about:</b> AI, data science, full-stack development, open-source
-  </td></tr>
-</table>
-
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #3fb950; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(63,185,80,0.15);">
-  <tr><td align="center" style="border: 2px solid #3fb950; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    🛠 <b>Built:</b> <a href="https://touristjunction.vercel.app">TOURISTjunction</a> — a feedback platform for travelers (<a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">repo</a>)
-  </td></tr>
-</table>
-
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #d2a8ff; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(210,168,255,0.15);">
-  <tr><td align="center" style="border: 2px solid #d2a8ff; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    🧪 <b>Lab work:</b> React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP
-  </td></tr>
-</table>
-
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #ff6b6b; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(255,107,107,0.15);">
-  <tr><td align="center" style="border: 2px solid #ff6b6b; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    🌐 <b>Portfolio:</b> <a href="https://frontend-tau-one-51.vercel.app">anushka-kandhway.vercel.app</a>
-  </td></tr>
-</table>
-
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #ffd700; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(255,215,0,0.15);">
-  <tr><td align="center" style="border: 2px solid #ffd700; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    🌱 <b>Lifelong learner</b> — there's always something new to explore
-  </td></tr>
-</table>
-
-<table align="center" border="0" cellpadding="8" cellspacing="0" style="border: 2px solid #79c0ff; border-radius: 14px; background: #161b22; box-shadow: 0 8px 32px rgba(121,192,255,0.15);">
-  <tr><td align="center" style="border: 2px solid #79c0ff; border-radius: 14px; padding: 14px 22px; background: #161b22;">
-    📫 <b>Let's connect, collaborate, and grow together</b>
-  </td></tr>
-</table>
+<p align="center">
+  <img src="svgs/card1.svg" alt="Tech stack" width="650" style="max-width: 100%;">
+  <img src="svgs/card2.svg" alt="Curious about" width="650" style="max-width: 100%;">
+  <img src="svgs/card3.svg" alt="Built" width="650" style="max-width: 100%;">
+  <img src="svgs/card4.svg" alt="Lab work" width="650" style="max-width: 100%;">
+  <img src="svgs/card5.svg" alt="Portfolio" width="650" style="max-width: 100%;">
+  <img src="svgs/card6.svg" alt="Lifelong learner" width="650" style="max-width: 100%;">
+  <img src="svgs/card7.svg" alt="Connect" width="650" style="max-width: 100%;">
+</p>
+<p align="center">
+  🔗 <a href="https://touristjunction.vercel.app">TOURISTjunction</a> ·
+  <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">Repo</a> ·
+  <a href="https://frontend-tau-one-51.vercel.app">Portfolio</a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kandhwayanushka-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
