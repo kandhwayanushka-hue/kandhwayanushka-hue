@@ -7,37 +7,34 @@
 
 ### A techie passionate about AI, Data Science & Open Source
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
-
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #58a6ff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #58a6ff; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 💻 <b>Tech stack:</b> Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind
 </div>
 
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #f0883e; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #f0883e; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 🔍 <b>Curious about:</b> AI, data science, full-stack development, open-source
 </div>
 
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #3fb950; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #3fb950; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 🛠 <b>Built:</b> <a href="https://touristjunction.vercel.app">TOURISTjunction</a> — a feedback platform for travelers (<a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">repo</a>)
 </div>
 
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #d2a8ff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #d2a8ff; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 🧪 <b>Lab work:</b> React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP
 </div>
 
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #ff6b6b; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #ff6b6b; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 🌐 <b>Portfolio:</b> <a href="https://frontend-tau-one-51.vercel.app">anushka-kandhway.vercel.app</a>
 </div>
 
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #ffd700; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #ffd700; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 🌱 <b>Lifelong learner</b> — there's always something new to explore
 </div>
 
-<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #79c0ff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+<div style="border: 2px solid #79c0ff; border-radius: 14px; padding: 14px 22px; margin: 10px auto; max-width: 650px; background: #161b22;">
 📫 <b>Let's connect, collaborate, and grow together</b>
 </div>
 
-</div>
 </div>
 
 # 📊 GitHub Stats:
