@@ -9,16 +9,11 @@
 <p align="center">
   <img src="svgs/card1.svg" alt="Tech stack" width="650" style="max-width: 100%;">
   <img src="svgs/card2.svg" alt="Curious about" width="650" style="max-width: 100%;">
-  <img src="svgs/card3.svg" alt="Built" width="650" style="max-width: 100%;">
+  <a href="https://touristjunction.vercel.app"><img src="svgs/card3.svg" alt="Built: TOURISTjunction" width="650" style="max-width: 100%;"></a>
   <img src="svgs/card4.svg" alt="Lab work" width="650" style="max-width: 100%;">
-  <img src="svgs/card5.svg" alt="Portfolio" width="650" style="max-width: 100%;">
+  <a href="https://frontend-tau-one-51.vercel.app"><img src="svgs/card5.svg" alt="Portfolio" width="650" style="max-width: 100%;"></a>
   <img src="svgs/card6.svg" alt="Lifelong learner" width="650" style="max-width: 100%;">
   <img src="svgs/card7.svg" alt="Connect" width="650" style="max-width: 100%;">
-</p>
-<p align="center">
-  🔗 <a href="https://touristjunction.vercel.app">TOURISTjunction</a> ·
-  <a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">Repo</a> ·
-  <a href="https://frontend-tau-one-51.vercel.app">Portfolio</a>
 </p>
 
 # 📊 GitHub Stats:
