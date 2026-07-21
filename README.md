@@ -2,8 +2,43 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<h3 align="center">A techie passionate about AI, Data Science & Open Source</h3>
-<h4 align="center">💻 Tech stack: Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind<br><br>🔍 Curious about: AI, data science, full-stack development, open-source<br><br>🛠 Built: <a href="https://touristjunction.vercel.app">TOURISTjunction</a> — a feedback platform for travelers (<a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">repo</a>)<br><br>🧪 Lab work: React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP<br><br>🌐 Portfolio: <a href="https://frontend-tau-one-51.vercel.app">anushka-kandhway.vercel.app</a><br><br>🌱 Lifelong learner — there's always something new to explore<br><br>📫 Let's connect, collaborate, and grow together</h4>
+
+<div align="center">
+
+### A techie passionate about AI, Data Science & Open Source
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #58a6ff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+💻 <b>Tech stack:</b> Python | C++ | JavaScript | Java | React | Spring Boot | Bootstrap | Tailwind
+</div>
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #f0883e; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+🔍 <b>Curious about:</b> AI, data science, full-stack development, open-source
+</div>
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #3fb950; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+🛠 <b>Built:</b> <a href="https://touristjunction.vercel.app">TOURISTjunction</a> — a feedback platform for travelers (<a href="https://github.com/kandhwayanushka-hue/TOURISTjunction">repo</a>)
+</div>
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #d2a8ff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+🧪 <b>Lab work:</b> React apps, Spring Boot REST APIs, Vanilla JS projects, Java OOP
+</div>
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #ff6b6b; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+🌐 <b>Portfolio:</b> <a href="https://frontend-tau-one-51.vercel.app">anushka-kandhway.vercel.app</a>
+</div>
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #ffd700; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+🌱 <b>Lifelong learner</b> — there's always something new to explore
+</div>
+
+<div style="background: linear-gradient(145deg, #1e1e1e, #2d2d2d); border-radius: 14px; padding: 14px 22px; max-width: 600px; box-shadow: 0 6px 24px rgba(0,0,0,0.25); border-left: 4px solid #79c0ff; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-6px)'" onmouseout="this.style.transform='translateY(0)'">
+📫 <b>Let's connect, collaborate, and grow together</b>
+</div>
+
+</div>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kandhwayanushka-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
